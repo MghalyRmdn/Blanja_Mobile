@@ -37,7 +37,7 @@ Mobile Application Blanja, Build with React Native
 - [`Node Js`](https://nodejs.org/en/)
 - [`npm`](https://www.npmjs.com/get-npm)
 - [`React Native`](https://reactnative.dev/)
-- [`Blanja Backend`](https://github.com/hendrasolih/backend-blanja)
+- [`Blanja Backend`](https://github.com/MghalyRmdn/Blanja_API.git)
 
 ## Screenshoots
 
