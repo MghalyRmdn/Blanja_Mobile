@@ -20,7 +20,7 @@ Mobile Application Blanja, Build with React Native
 
 ## Description
 
-**Blanja** is online shoping that provide transaction and interaction between customer and seller.
+**Blanja** is a e-commerce based on mobile that provide transaction and interaction between customer and seller.
 
 ## Features
 
@@ -41,9 +41,8 @@ Mobile Application Blanja, Build with React Native
 
 ## Screenshoots
 
-<div align="center">
-    <img width="21%" src="./src/assets/images/Mob 1.png">
-    <img width="21%" src="./src/assets/images/Mob 2.png">
-    <img width="21%" src="./src/assets/images/Mob 3.png">
-    <img width="21%" src="./src/assets/images/Mob 4.png">
-</div>
+![mobile_1](https://user-images.githubusercontent.com/44633669/108692631-6e566300-752f-11eb-883b-046dc00c3bd6.png)
+![mobile_2](https://user-images.githubusercontent.com/44633669/108692639-70b8bd00-752f-11eb-93ec-063e74d5ad87.png)
+![mobile_3](https://user-images.githubusercontent.com/44633669/108692640-71e9ea00-752f-11eb-921f-dce8a1ec9e0c.png)
+![mobile_4](https://user-images.githubusercontent.com/44633669/108692642-72828080-752f-11eb-823c-1afad26d378b.png)
+
