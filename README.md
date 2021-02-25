@@ -37,10 +37,9 @@ Mobile Application Blanja, Build with React Native
 - [`Node Js`](https://nodejs.org/en/)
 - [`npm`](https://www.npmjs.com/get-npm)
 - [`React Native`](https://reactnative.dev/)
-- [`Blanja Backend`](https://github.com/MghalyRmdn/Blanja_API.git)
 
-## Link Demo 
-- [`Blanja_APK`](https://drive.google.com/file/d/1VskELyBHmjfmqZxJ8gi4RDMikBbIMjGC/view?usp=sharing)
+
+
 ## Screenshoots
 
 ![mobile_1](https://user-images.githubusercontent.com/44633669/108692631-6e566300-752f-11eb-883b-046dc00c3bd6.png)
@@ -48,3 +47,8 @@ Mobile Application Blanja, Build with React Native
 ![mobile_3](https://user-images.githubusercontent.com/44633669/108692640-71e9ea00-752f-11eb-921f-dce8a1ec9e0c.png)
 ![mobile_4](https://user-images.githubusercontent.com/44633669/108692642-72828080-752f-11eb-823c-1afad26d378b.png)
 
+## Link Demo 
+- [`Blanja_APK`](https://drive.google.com/file/d/1VskELyBHmjfmqZxJ8gi4RDMikBbIMjGC/view?usp=sharing)
+
+## RESTFULL API BACKEND FOR THIS
+ - [`Blanja Backend`](https://github.com/MghalyRmdn/Blanja_API.git)
